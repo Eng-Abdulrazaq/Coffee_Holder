@@ -1,17 +1,17 @@
 Note: This git contains model made with Autodesk Fusion 360. To find model file as (f3d) [click here](https://github.com/Eng-Abdulrazaq/Coffee_Holder/tree/master/Fusion%20360%20(f3d)). To find files as (STL) [click here](https://github.com/Eng-Abdulrazaq/Coffee_Holder/tree/master/STL%20files)
 
 # Coffee Thermos Holder
-An existing robot is to be functioning as a waiter, pouring traditional arabic coffee to geusts. It is desired to design a holder that carries the coffee thermos.
+An existing robot is to be functioning as a waiter, pouring traditional Arabic coffee to guests. It is desired to design a holder that carries the coffee thermos.
 
 ![Photo](https://github.com/Eng-Abdulrazaq/Coffee_Holder/blob/master/Photos/Desired/Function.png)
 
 ## Workpeice
-The following picture is of a traditional coffee flask. It is somtimes used to present the culture of people living in GCC countries.
+The following picture is of a traditional coffee flask. It is sometimes used to present the culture of people living in GCC countries.
 
 ![Photo](https://github.com/Eng-Abdulrazaq/Coffee_Holder/blob/master/Photos/Desired/Workpiece.png)
 
 ## Suggested Design
-The following pictture show a suggested design to be 3D printed.
+The following picture show a suggested design to be 3D printed.
 
 ![Photo](https://github.com/Eng-Abdulrazaq/Coffee_Holder/blob/master/Photos/Desired/Required.png)
 
